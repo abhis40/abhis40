@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhis40&label=Profile%20views&color=0e75b6&style=flat" alt="abhis40" /> </p>
 
-- 🔭 I’m currently working on **[StudyMateAI](https://studymateai.netlify.app/)**
 
 - 🌱 I’m currently learning **MERN**
 
